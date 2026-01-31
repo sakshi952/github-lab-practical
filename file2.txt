@@ -1,0 +1,2 @@
+Open Source Community GitHub is the world's largest host for source code, home to virtually every major open source project, facilitating sharing and community contributions.
+Project Management Beyond code, it offers features for project management, documentation (wikis and README files), and continuous integration/continuous delivery (CI/CD) with GitHub Actions.
