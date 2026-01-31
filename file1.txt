@@ -1,0 +1,2 @@
+Version Control Hosting GitHub is a web-based platform used for hosting and managing software projects that use the Git version control system.
+Collaboration Hub It provides tools like pull requests, issue tracking, and code review that allow multiple developers to collaborate on projects efficiently and transparently.
